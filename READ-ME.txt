@@ -1,0 +1,11 @@
+  =>  Template Name    : gunturpos - template
+
+  =>  Template Link    : mozacky
+
+  =>  Template License : mozacky
+
+  =>  Template Author  : mozacky
+
+  =>  Author Website   : mozacky
+
+  =>  About HTML Codex : mozacky
